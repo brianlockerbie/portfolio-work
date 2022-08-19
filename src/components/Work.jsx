@@ -175,7 +175,7 @@ const Work = () => {
                                   Demo
                                 </button>
                             </a>
-                            <a href='https://github.com/brianlockerbie/petters-project-2'>
+                            <a href='https://github.com/brianlockerbie/petters'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                   Code
                                 </button>
