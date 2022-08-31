@@ -221,7 +221,7 @@ const Work = () => {
                                   Demo
                                 </button>
                             </a>
-                            <a href='https://github.com/brianlockerbie/population-density-checker-project-1'>
+                            <a href='https://github.com/project01team10/population-density-checker'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                   Code
                                 </button>
