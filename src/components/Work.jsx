@@ -8,6 +8,7 @@ import workImg6 from '../assets/workImg6.png'
 import workImg7 from '../assets/workImg7.png'
 import workImg8 from '../assets/workImg8.png'
 import workImg9 from '../assets/workImg9.png'
+import workImg0 from '../assets/workImg0.png'
 
 const Work = () => {
   return (
@@ -161,21 +162,21 @@ const Work = () => {
                     </div>
                 </div>
                 <div 
-                  style={{backgroundImage: `url(${workImg3})`}}
+                  style={{backgroundImage: `url(${workImg0})`}}
                   className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
                   >
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white -tracking-wider'>
-                          Petters
+                          Weather Dashboard
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://mvc-petters-social.herokuapp.com/'>
+                            <a href='https://brianlockerbie.github.io/weather-dashboard'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                   Demo
                                 </button>
                             </a>
-                            <a href='https://github.com/brianlockerbie/petters'>
+                            <a href='https://github.com/brianlockerbie/weather-dashboard'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                   Code
                                 </button>
