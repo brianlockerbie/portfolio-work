@@ -1,7 +1,6 @@
 import React from 'react'
 import workImg from '../assets/workImg.png'
 import workImg2 from '../assets/workImg2.png'
-import workImg3 from '../assets/workImg3.png'
 import workImg4 from '../assets/workImg4.png'
 import workImg5 from '../assets/workImg5.png'
 import workImg6 from '../assets/workImg6.png'
