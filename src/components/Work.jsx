@@ -36,12 +36,12 @@ const Work = () => {
                         <p><b>Made with: CSS, HTML</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://brianlockerbie.github.io/code-refactor/'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/brianlockerbie/code-refactor'>
-                                <button className='text-center rounded-md px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-md px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -62,12 +62,12 @@ const Work = () => {
                         <p><b>Made with: CSS, HTML, JavaScript</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://brianlockerbie.github.io/coding-quiz'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href="https://github.com/brianlockerbie/coding-quiz">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -88,12 +88,12 @@ const Work = () => {
                         <p><b>Made with: Node, JavaScript, jQuery, Express</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://radiant-chamber-54860.herokuapp.com/'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/brianlockerbie/note-taker-app'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -114,12 +114,12 @@ const Work = () => {
                         <p><b>Made with: CSS, HTML, JavaScript, jQuery & Third-Party-API</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://brianlockerbie.github.io/work-day-scheduler'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/brianlockerbie/work-day-scheduler'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -140,12 +140,12 @@ const Work = () => {
                         <p><b>Made with: CSS, HTML, JavaScript</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://brianlockerbie.github.io/password-generator-app/'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/brianlockerbie/password-generator-app'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -165,12 +165,12 @@ const Work = () => {
                         <p><b>Made with: MySQL, Express, Node, MVC, Handlebars, Sequelize</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://shrouded-headland-93448.herokuapp.com'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/brianlockerbie/tech-blog'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -191,12 +191,12 @@ const Work = () => {
                         <p><b>Made with: CSS, JavaScript, jQuery, Fetch-API, Server-Side-API</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://brianlockerbie.github.io/weather-dashboard'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/brianlockerbie/weather-dashboard'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -216,12 +216,12 @@ const Work = () => {
                         <p><b>Made with: Node, JavaScript, Jest, OOP, Inquirer</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://drive.google.com/file/d/1HSfNE8VwWTKqD7WeNsrs2kksJ2Gye4R3/view'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/brianlockerbie/team-profile-generator'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
@@ -237,16 +237,17 @@ const Work = () => {
                         <span className='text-2xl font-bold text-white -tracking-wider'>
                           Population Density Checker
                         </span>
-                        <p><i>A Population Density Checker application allows the user to check the population of a desired location.</i></p>
+                        <p><i>Application allows the user to check the population of a desired location.</i></p><br></br>
+
                         <p><b>Made with: CSS, HTML, JavaScript, api-requests, server-side-api, Tailwind</b></p>
                         <div className='pt-8 text-center'>
                             <a href='https://project01team10.github.io/population-density-checker/'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Demo
                                 </button>
                             </a>
                             <a href='https://github.com/project01team10/population-density-checker'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-sm'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 hover:bg-purple-600 hover:border-purple-600 font-bold text-sm'>
                                   Code
                                 </button>
                             </a>
